@@ -12,12 +12,15 @@ installation.
 In order to use the project the following software must be installed in your computer. Git bash, and visual studio that can be done in a lap top or a mac. Git can be download from the fallowing link: https://git-scm.com/download/win, and here is the link for downloading visual studio: visualstudio.microsoft.com. It's better to use windows 10 while using the project. both Git bash and visual studio will allow the user the have access to the codes that help to build a project.
 
 example usage.
+
 After forking and cloning the project repertory from Github, the following code can be type in git bash to view the project codes and files: git clone fallow by the project name(press paste), cd fallow by project name, and type  code space period key. once the visual studio is launched, click right and select delfault browser to open site in action. click inside each row to enter the event, save it and move to the next.At the end, refresh the page. 
 
 Environment.
+
 I am excpeting my project to be pulled by other developer in order to make some suggestions on some block of codes and send me feedback .I can also be contacted by emails:papylotomba@yahoo.fr
 
 license and copyright.
+
 MIT License
 
 Copyright (c) [2020] [PAPY LONTOMBA]
