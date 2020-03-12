@@ -5,7 +5,7 @@ $("#currentDay").text(moment().format('dddd MMMM Do YYYY, h:mm a'));
 var currentTime = moment();
 // Returns current time to the nearest hour - 12:30 becomes 12:00
 currentTime = currentTime.startOf("hour");
-// define  the start of day + 9 to return 9 am
+// Calculates the start of day + 9 to return 9 am
 var beforeTime = moment().startOf('day').add(9, "hours");
 
 // Time blocks
@@ -170,7 +170,6 @@ function testTime() {
         $(".form5").addClass("present");
     };
 }
-
 testTime();
 // Loops through input area to get item from local storage
 var x = [9, 10, 11, 12, 1, 2, 3, 4, 5];
