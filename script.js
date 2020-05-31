@@ -8,7 +8,7 @@ currentTime = currentTime.startOf("hour");
 // Calculates the start of day + 9 to return 9 am
 var beforeTime = moment().startOf('day').add(9, "hours");
 
-// Time blocks
+// Time blocks define and format,tex,add methodes
 // 9 AM 
 var time1 = beforeTime.add(0, "h");
 // var time1 = beforeTime;
