@@ -179,7 +179,7 @@ for (var i = 0; i < x.length; i++) {
     // form - control
     $(".form" + x[i]).val(dataHour);
 }
-// Event listener to save to local stroage
+// Event listener to save to local stroage and console this worked
 $(".saveBtn").click(function () {
     event.preventDefault();
     var formValue = $(this).siblings(".form-control").val();
