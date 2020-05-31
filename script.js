@@ -56,7 +56,7 @@ time9 = time9.format('hh:mm A');
 // Populates time formula into html
 $(".block9").text(time9);
 
-// Function to compare hour slots with current time 
+// Function testTime to compare hour slots with current time 
 // Update these to coordinating numbers
 function testTime() {
     // Add time1 9AM
