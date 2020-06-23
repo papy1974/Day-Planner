@@ -1,6 +1,10 @@
-title.
+Title.
 
 The project is named day planner that  allowed the user to create a schedule trought a daily planner. 
+
+Languages and Tools used:
+
+HTML, CSS, JavaScript,Jquery,Git,Bootstrap
 
 objective.
 
