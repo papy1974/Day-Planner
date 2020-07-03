@@ -4,7 +4,7 @@ The project is named the day planner that allowed the user to create a schedule 
 Languages and Tools used:
 HTML, CSS, JavaScript,Jquery,Git,Bootstrap
 
-objective.
+objective and description.
 
 The purpose of this project is to allow the user to create a schedule trough a daily planner. first, the current day is shown at the top of the calendar when the user opens the planner. after, time blocks for standard business hours will appear. for each day, the time blocks are color-coded to illustrate whether it is in the past, present, or future. when the user clicks into a time block, the user can enter an event, and when the user clicks the save button for that time block. the text for that event will be saved in local storage and anytime the user refreshes the page, the saved events persist. from this project, I learned that I can use jquery code, CSS, Html to build a daily planner schedule. I build a daily schedule application to allowed any person to be able to enter and save any daily activity, also to see any past, present, or future event.
 you may click on the link below to see the project  activation: https://papy1974.github.io/h5_day_planner/
